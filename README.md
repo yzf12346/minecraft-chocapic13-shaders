@@ -1,2 +1,2 @@
-# minecraft-souls
+# minecraft-souls-resources
 A Minecraft resource pack.
