@@ -1,2 +1,2 @@
-# minecraft-souls-resources
-A Minecraft resource pack.
+# minecraft-souls-shaders
+A Minecraft shaders pack.
